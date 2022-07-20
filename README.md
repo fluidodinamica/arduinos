@@ -21,6 +21,7 @@ En julio de 2022, un bug impide la detección directa de las placas.
      y reiniciar resuelve el conflicto.
      
    3. Un horrible bug no permitía detectar librerías instaladas. Para ello,
+   
     ```
     sudo apt install  avr-libc gcc-avr 
 
