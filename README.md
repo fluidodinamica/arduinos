@@ -1,4 +1,4 @@
-# arduinos
+# Arduinos
 
 ### Arduino y Ubuntu
 
