@@ -3,6 +3,7 @@
 ### Arduino y Ubuntu
 
 En julio de 2022, un bug impide la detección directa de las placas.
+  0. Instalar Arduino desde la versión 64bits del ditio wev (no usar apt install)
 
   1. Aplicación Arduino:  error java.lang.UnsatisfiedLinkError: /usr/lib/x86_64-linux-gnu/liblistSerialsj
   
